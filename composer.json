@@ -1,0 +1,9 @@
+{
+    "name": "drive/drivetest",
+    "autoload": {
+        "psr-4": {
+            "Drive\\Drivetest\\": "src/"
+        }
+    },
+    "require": {}
+}

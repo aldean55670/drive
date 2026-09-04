@@ -1,5 +1,5 @@
 {
-    "name": "aldean55670/drive/drivetest",
+    "name": "aldean55670/drive",
     "autoload": {
         "psr-4": {
             "Drive\\Drivetest\\": "src/"
